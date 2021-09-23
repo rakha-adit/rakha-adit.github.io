@@ -1,0 +1,28 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+div button a {
+  text-decoration: none;
+  color: black;
+}
+
+div button a:hover {
+  color: white;
+}
+
+h3,
+p,
+a {
+  font-family: "Oswald", sans-serif;
+  font-weight: 300;
+}
